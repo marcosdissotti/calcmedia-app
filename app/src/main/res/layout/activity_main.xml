@@ -7,20 +7,48 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <Button
-        android:id="@+id/btnCalcular"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Calcular"
-        tools:layout_editor_absoluteX="163dp"
-        tools:layout_editor_absoluteY="96dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="166dp"
-        tools:layout_editor_absoluteY="427dp" />
+        android:background="#7159c1"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="534dp"
+        android:gravity="center"
+
+        android:background="#C47159C1"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/btnCalcular"
+            android:layout_width="125dp"
+            android:layout_height="71dp"
+            android:shadowRadius="@android:integer/config_longAnimTime"
+            android:text="Calcular"
+            android:fontFamily="monospace"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="#fff"
+            android:layout_marginBottom="10dp"
+            tools:layout_editor_absoluteX="163dp"
+            tools:layout_editor_absoluteY="96dp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="125dp"
+            android:layout_height="74dp"
+            android:fontFamily="monospace"
+            android:textColor="#fff"
+            android:text="Fazer Nada"
+            android:background="@color/colorPrimaryDark"
+            tools:layout_editor_absoluteX="166dp"
+            tools:layout_editor_absoluteY="427dp" />
+
+    </LinearLayout>
 
 </LinearLayout>
