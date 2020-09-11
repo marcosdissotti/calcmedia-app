@@ -1,4 +1,4 @@
-# Localidades dos arquivos da aula:
+# Localidade dos arquivos da aula:
 
 
 ```bash
