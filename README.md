@@ -9,7 +9,7 @@
 
 ## Demonstração
 
-[Play Store: App TemQueTerASacada](https://www.google.com)
+- [Play Store: Download App TemQueTerASacada](https://play.google.com/store/apps/details?id=com.dissotti.temqueterasacada&hl=pt_BR)
 
 <h1 align="center">
     <img alt="React GitHub Repo List" src="./exercicio10092020.gif" />
