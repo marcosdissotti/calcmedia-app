@@ -9,6 +9,8 @@
 
 ## Demonstração
 
+[Play Store: App TemQueTerASacada](https://www.google.com)
+
 <h1 align="center">
     <img alt="React GitHub Repo List" src="./exercicio10092020.gif" />
 </h1>
